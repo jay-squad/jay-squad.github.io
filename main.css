@@ -72,3 +72,14 @@ a{
   font-size:12px;
   color: #1D1D1D;
 }
+
+.appstore {
+  height: 100px;
+  padding-top: 30px;
+}
+
+.appstore img {
+    width: auto;
+    height: auto;
+    padding-bottom: 0px;
+}
